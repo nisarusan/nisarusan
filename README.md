@@ -1,5 +1,5 @@
-- 👋 Hi, Ik ben Nizar, en ben student aan de Hogeschool NOVI in Utrecht.
-- Op de Hogeschool NOVI leer ik in 6 maanden zowel front-end als back-end te leren. 
+- 👋 Hi, Ik ben Nis en ben student aan de Hogeschool NOVI in Utrecht. 
+- Op de Hogeschool NOVI leer ik in 6 maanden zowel front-end als back-end te leren. Dit doe ik vooral in mijn avonduren, werk ik hier aan.
 
 Mijn skills: 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
