@@ -1,5 +1,5 @@
-- 👋 Hi, Ik ben Nis en ben student aan de Hogeschool NOVI in Utrecht. 
-- Op de Hogeschool NOVI leer ik in 6 maanden zowel front-end als back-end te leren. Dit doe ik vooral in mijn avonduren, werk ik hier aan.
+- 👋 Hi, Ik ben Nis en ben student aan de Hogeschool HAN in Arnhem
+- Op de Hogeschool HAN leer ik zowel front-end als back-end te leren. Vooral in avond werk ik hier aan, het lukt me niet altijd om eraan te werken i.v.m. dagelijkse werk en leven.
 
 Mijn skills: 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
